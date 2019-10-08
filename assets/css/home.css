@@ -36,6 +36,9 @@
 .h5card{
     text-align: center; 
     align-items: center;
+    /*background-color: #9C9C9C;*/
+    background-image: linear-gradient( to right, #b4b1b1, #9C9C9C, #b4b1b1);
+
 }
 .card{
     width: 17rem; 
@@ -43,10 +46,31 @@
     border-radius:8%;
 }
 .imgcard{
-    width: 100px;
-    height: 100px;
+    width: 140px;
+    height: 140px;
     display: block;
     margin: auto;
+    margin-top:10px; 
+}
+.imgcard1{
+    width: 100px;
+    height: 140px;
+    display: block;
+    margin: auto;
+    margin-top:10px; 
+}
+.imgcard2{
+    width: 230px;
+    height: 140px;
+    display: block;
+    margin: auto;
+    margin-top:10px; 
+}
+.card-body{
+    margin-top: 0px;
+    padding-top: 6px;
+    margin-bottom: 0px;
+    padding-bottom: 10px;
 }
 .contacto{
     padding-left: 5%;
@@ -83,7 +107,10 @@
     text-align: justify;
 }
 
-
+.card-text{
+    text-align: justify;
+    font-size: 14px;
+}
 
 
 /*
