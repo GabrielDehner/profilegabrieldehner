@@ -24,7 +24,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 $config['base_url'] = 'http://localhost/profilegabrieldehner/';
-//$config['base_url'] = 'https://gabrieldehner.000webhostapp.com/';
+// $config['base_url'] = 'http://gabrielandresdehner.000webhostapp.com/';
+// $config['base_url'] = 'http://gabrieldehner.epizy.com/';
+
 
 /*
 |--------------------------------------------------------------------------
